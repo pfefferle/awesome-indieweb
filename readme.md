@@ -4,7 +4,7 @@
 
 -
 
-[![IndieWebCamp Logo](https://raw.githubusercontent.com/pfefferle/awesome-indieweb/master/static/logo.svg)](http://indiewebcamp.com/)
+[![IndieWebCamp Logo](https://raw.githubusercontent.com/pfefferle/awesome-indieweb/master/logo.svg)](http://indiewebcamp.com/)
 
 The IndieWeb is a people-focused alternative to the ‘corporate web’.
 
