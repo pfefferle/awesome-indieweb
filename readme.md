@@ -4,7 +4,7 @@
 
 > A curated list of awesome IndieWeb stuff
 
--
+---
 
 The IndieWeb is a people-focused alternative to the ‘corporate web’.
 
