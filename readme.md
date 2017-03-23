@@ -8,8 +8,6 @@
 
 The IndieWeb is a people-focused alternative to the ‘corporate web’.
 
->
-
 * [What is the IndieWeb?](https://indieweb.org)
 * [Why](https://indieweb.org/why)
 * [Principles](https://indieweb.org/principles)
