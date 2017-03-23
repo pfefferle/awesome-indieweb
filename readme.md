@@ -8,10 +8,12 @@
 
 The IndieWeb is a people-focused alternative to the ‘corporate web’.
 
-* [What is the IndieWeb?](https://indiewebcamp.com/)
-* [Why](https://indiewebcamp.com/why)
-* [Principles](https://indiewebcamp.com/principles)
-* [Getting Started](https://indiewebcamp.com/Getting_Started)
+>
+
+* [What is the IndieWeb?](https://indieweb.org)
+* [Why](https://indieweb.org/why)
+* [Principles](https://indieweb.org/principles)
+* [Getting Started](https://indieweb.org/Getting_Started)
 
 ## Contents
 
@@ -25,6 +27,7 @@ The IndieWeb is a people-focused alternative to the ‘corporate web’.
 
 * [Microformats 2](http://microformats.org/wiki/microformats-2) - microformats are HTML for marking up people, organizations, events, locations, blog posts, products, reviews, resumes, recipes etc.
 * [Micropub](https://micropub.net) - Micropub is an open API standard that is used to create posts on one's own domain using third-party clients.
+* [RelMeAuth](http://microformats.org/wiki/RelMeAuth) - RelMeAuth is a proposed open standard for using rel-me links to profiles on OAuth supporting services to authenticate via either those profiles or your own site.
 * [Webmention](https://webmention.net) - Webmention is a simple way to notify any URL when you link to it from your site.
 
 ## Articles
@@ -43,6 +46,7 @@ The IndieWeb is a people-focused alternative to the ‘corporate web’.
 ## Services
 
 * [Bridgy](https://brid.gy) ([GitHub](https://github.com/snarfed/bridgy)) - Bridgy pulls comments and likes from social networks back to your web site. You can also use it to publish your posts to those networks.
+* [IndieAuth](https://indieauth.com) ([GitHub](https://github.com/aaronpk/IndieAuth.com)) - Sign in with your domain name
 * [IndieWebify Me](https://indiewebify.me) ([GitHub](https://github.com/indieweb/indiewebify-me/)) - Tools to help you get the best out of your indieweb site.
 * [OwnYourGram](http://ownyourgram.com) ([GitHub](https://github.com/aaronpk/OwnYourGram)) - OwnYourGram will convert your Instagram photos and videos into a Micropub request, and send them to your Micropub endpoint.
 * [silo.pub](https://silo.pub) ([GitHub](https://github.com/kylewm/silo.pub)) - Use Micropub clients like Quill to post to hosted blogs on Wordpress.com, Tumblr, or Blogger.
