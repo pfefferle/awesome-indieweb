@@ -1,4 +1,4 @@
-![IndieWeb](media/indieweb-logo.svg)
+![IndieWeb](https://cdn.rawgit.com/pfefferle/awesome-indieweb/gh-pages/media/indieweb-logo.svg)
 
 # Awesome IndieWeb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
