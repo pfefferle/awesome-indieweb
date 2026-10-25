@@ -58,6 +58,7 @@ The IndieWeb is a people-focused alternative to the ‘corporate web’.
 * [Micropub](http://wordpress.org/plugins/micropub) ([GitHub](https://github.com/snarfed/wordpress-micropub))
 * [Semantic Linkbacks](https://wordpress.org/plugins/semantic-linkbacks/) ([GitHub](https://github.com/pfefferle/wordpress-semantic-linkbacks))
 * [Webmention](https://wordpress.org/plugins/webmention/) ([GitHub](https://github.com/pfefferle/wordpress-webmention))
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 * Webmention for Comments ([GitHub](https://github.com/pfefferle/wordpress-webmention-for-comments))
 * wp-webmention-again ([GitHub](https://github.com/petermolnar/wp-webmention-again))
 
