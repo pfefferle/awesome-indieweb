@@ -50,6 +50,7 @@ The IndieWeb is a people-focused alternative to the ‘corporate web’.
 * [silo.pub](https://silo.pub) ([GitHub](https://github.com/kylewm/silo.pub)) - Use Micropub clients like Quill to post to hosted blogs on Wordpress.com, Tumblr, or Blogger.
 * [Webmention.io](https://webmention.io) ([GitHub](https://github.com/aaronpk/webmention.io)) - Webmention.io is a hosted service created to easily handle webmentions (and legacy pingbacks) on any web page.
 * [webpage-webmentions](https://webmention.herokuapp.com) ([GitHub](https://github.com/voxpelli/webpage-webmentions)) - A hosted Disqus-like comment service that enables WebMention receiving on any kind of site.
+* [Nuchronic](https://nuchronic.uk) ([GitHub](https://github.com/thechelsuk/uk.nuchronic)) - A webring and aggregator for chronically ill people on the IndieWeb, collecting their blogs, podcasts and YouTube channels in one place.
 
 ## Plugins
 
