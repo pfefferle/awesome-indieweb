@@ -61,6 +61,10 @@ The IndieWeb is a people-focused alternative to the ‘corporate web’.
 * Webmention for Comments ([GitHub](https://github.com/pfefferle/wordpress-webmention-for-comments))
 * wp-webmention-again ([GitHub](https://github.com/petermolnar/wp-webmention-again))
 
+### Jekyll
+
+* [rss.chat Reply Manager](https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll) - Pulls replies to your posts from [rss.chat](https://rss.chat) into a Jekyll site so they can be shown under each post.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
